@@ -1,4 +1,4 @@
-# Eye-Tracker
+# Eye Tracker
 
 The README for each repository should contain: 
 
