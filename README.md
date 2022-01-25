@@ -10,10 +10,10 @@ Roadmap of future improvements: This should be a few sentences describing what y
 License information: This should include information about the MIT license. 
 The file structure for each repository should align to the following: 
 
-PacMen Exercise
-images/pacman1
-images/pacman2
-images/pacman3
-images/pacman4
-Index.html
-pacmen.js
+Eye Exercise
+
+index.html
+
+eyes.js
+
+styles.css
