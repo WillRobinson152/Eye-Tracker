@@ -2,14 +2,17 @@
 
 This eye tracker is a dynamic web page with two eyes that follow your mouse movement. I completed this as part of the MITxPro Full Stack Developer program. It was designed to showcase skills in JavaScript and CSS. 
 
-How to Run: This is information someone would use to get started running your project on their machine. 
+# Usage
+Download or clone the files in this repository to run locally.
 
-Roadmap of future improvements: This should be a few sentences describing what you plan to work on next in this repository. 
+# Future Improvements
+
+This was a one-time assignment and will not be improved upon.  
 
 
 MIT License
 
-Copyright (c) 2020 kogsio
+Copyright (c) 2022
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
