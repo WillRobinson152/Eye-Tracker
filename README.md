@@ -9,6 +9,7 @@ Download or clone the files in this repository to run locally.
 
 This was a one-time assignment and will not be improved upon.  
 
+# License
 
 MIT License
 
