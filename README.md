@@ -1,8 +1,8 @@
 # Eye Tracker
 
-This eye tracker is a dynamic webpage with two eyes that follow your mouse movement. I completed this as part of the MITxPro Full Stack Developer program. It was designed to showcase skills in JavaScript and CSS. 
+This eye tracker is a dynamic web page with two eyes that follow your mouse movement. I completed this as part of the MITxPro Full Stack Developer program. It was designed to showcase skills in JavaScript and CSS. 
 
-<strong>The webpage can be viewed <a href="https://willrobinson152.github.io/Eye-Tracker/">here</a></strong>.
+<strong>The web page can be viewed <a href="https://willrobinson152.github.io/Eye-Tracker/">here</a></strong>.
 
 # Usage
 Download or clone the files in this repository to run locally.
